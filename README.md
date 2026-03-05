@@ -1,2 +1,2 @@
-# gst-portel-
+# gst-portel
 Mock gst portal() 
